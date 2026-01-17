@@ -86,14 +86,6 @@ Screenshots of sample output are included in the `screenshots` folder.
 
 ---
 
-## Assumptions and Limitations
-
-* The tool requires appropriate system permissions to terminate certain processes.
-* On Windows, the process name detection may be limited due to system command constraints.
-* The tool is intended for local development use.
-
----
-
 ## Demo Video
 
 A short demonstration video explaining the problem, showing the tool in action, and discussing design decisions is available at the following link:
