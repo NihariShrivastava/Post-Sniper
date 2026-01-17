@@ -90,7 +90,7 @@ Screenshots of sample output are included in the `screenshots` folder.
 
 A short demonstration video explaining the problem, showing the tool in action, and discussing design decisions is available at the following link:
 
-YouTube (Unlisted): <Add your YouTube link here>
+YouTube (Unlisted): <https://youtu.be/lSJr4zWQZx4>
 
 ---
 
